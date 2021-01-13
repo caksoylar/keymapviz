@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-keymap_keyword = '(?:LAYOUT|LAYOUT_kc|LAYOUT_split_3x5_2(_wrapper)?)'
+keymap_keyword = '(?:LAYOUT|LAYOUT_kc|LAYOUT_split_3x5_2)'
 layout_editor_json = 'keyboards/hexychoc/layout_editor.json'
 
 ascii_art = '''
