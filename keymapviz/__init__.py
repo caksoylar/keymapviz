@@ -20,6 +20,7 @@ import keymapviz.keyboards.kaishi65
 import keymapviz.keyboards.kyria
 import keymapviz.keyboards.lily58
 import keymapviz.keyboards.hexychoc
+import keymapviz.keyboards.gergoplex
 
 
 KEYBOARDS = {
@@ -37,7 +38,8 @@ KEYBOARDS = {
     'mint60': keymapviz.keyboards.mint60,
     'kaishi65': keymapviz.keyboards.kaishi65,
     'kyria': keymapviz.keyboards.kyria,
-    'hexychoc': keymapviz.keyboards.hexychoc
+    'hexychoc': keymapviz.keyboards.hexychoc,
+    'gergoplex': keymapviz.keyboards.gergoplex
 }
 
 
